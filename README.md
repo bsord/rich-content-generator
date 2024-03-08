@@ -3,7 +3,7 @@
 ## Setup
 1. Create ```./streamlit/secrets.toml```
 2. Add `password = "password here"` to secrets.toml:
-
+3. Configure openai key by running `export OPENAI_API_KEY=Your_API_key_here`
 
 ## Run
 1. `pip install -r requirements.txt`
